@@ -2,8 +2,7 @@
 Thanks for looking at my bot! 
 
 Dependencies:
-- Discum (`pip install discum`)
-- Rich (`pip install rich`)
+Run setup.py
 
 This doesn't require the user that is going to be DMed to make any interaction. It scrapes all the user IDs in a server then DMs them.
 
